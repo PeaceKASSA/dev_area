@@ -1,0 +1,1 @@
+{"version":"1.0.0","name":"mobile_version","dependencies":{"@react-navigation/native-stack":{"version":"6.9.9"},"@react-navigation/native":{"version":"6.1.3"},"expo-status-bar":{"version":"1.4.2"},"expo":{"version":"1.0.0"},"react-native":{"version":"0.70.5"},"react":{"version":"18.1.0"}}}
